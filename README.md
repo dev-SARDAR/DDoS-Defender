@@ -3,19 +3,24 @@
 ## Table of Contents
 
 1. Introduction
+Introduction: #introduction
 
 2. Background
-   - 2.1 Software-Defined Networking (SDN)
-   - 2.2 Distributed Denial of Service (DDoS) Attacks
-   - 2.3 Machine Learning (ML) Techniques
-
+Software-Defined Networking (SDN): background#software-defined-networking-sdn
+Distributed Denial of Service (DDoS) Attacks: background#distributed-denial-of-service-ddos-attacks
+Machine Learning (ML) Techniques: background#machine-learning-ml-techniques
 3. Problem Statement
+Problem Statement: #problem-statement
 
 4. Architecture
+Architecture: #architecture
 
 5. DDoS Attack Mitigation Strategy
+DDoS Attack Mitigation Strategy: #ddos-attack-mitigation-strategy
 
+Traffic Filtering: ddos-attack-mitigation-strategy#traffic-filtering
 6. Conclusion
+Conclusion: #conclusionc
 
 ## 1. Introduction
 
