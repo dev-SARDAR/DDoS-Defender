@@ -5,9 +5,7 @@
 1. Introduction
 
 2. Background
-    - Software-Defined Networking (SDN)
-    - Distributed Denial of Service (DDoS) Attacks
-    - Machine Learning (ML) Techniques
+
 3. Problem Statement
 
 4. Architecture
