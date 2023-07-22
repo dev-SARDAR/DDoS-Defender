@@ -68,6 +68,8 @@ The superiority of Random Forest can be attributed to its unique ensemble learni
 
 
 Moreover, the algorithm excels in handling high-dimensional datasets, making it well-suited for various real-world applications. Its ability to mitigate overfitting, efficient parallelization, and tunable hyperparameters further contribute to its outstanding performance.
+
+
 As a result, Random Forest proves to be a versatile and reliable choice for predictive modeling tasks, demonstrating its potential to outperform other commonly used machine learning algorithms.
 
 ## 7. Conclusion
