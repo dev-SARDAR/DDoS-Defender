@@ -45,11 +45,17 @@ The challenge addressed in this documentation is twofold:
 
 ## 5. DDoS Attack Mitigation Strategy
 
-To effectively mitigate DDoS attacks in the SDN environment, the ML-based system can implement the following strategy:
+In order to create a robust defense against DDoS attacks within the SDN environment, our ML-based system employs a powerful mitigation strategy that guarantees effective protection. The core of this strategy lies in "Traffic Filtering."
 
-### Traffic Filtering
+Traffic Filtering:
 
-Traffic filtering involves blocking or dropping traffic from suspicious or known malicious sources. The ML-based system can use its detection capabilities to identify malicious traffic and apply filtering rules in real-time to mitigate the attack.
+With the remarkable capabilities of machine learning, our system excels at identifying and distinguishing between legitimate and malicious traffic sources. Through real-time monitoring and analysis, it can accurately detect suspicious patterns and pinpoint potential DDoS attacks. Once such malicious traffic is identified, the ML-based system promptly applies intelligent filtering rules.
+
+These filtering rules enable the system to take immediate action against the identified threats, either by blocking or dropping the malicious traffic packets. By doing so, the system effectively prevents them from reaching their intended targets and causing any disruption.
+
+The strength of this strategy lies in its dynamic and adaptive nature, allowing it to stay ahead of evolving DDoS attack techniques. The ML-based system continuously learns from new data and adapts its filtering rules to counter emerging threats effectively.
+
+As a result of implementing this sophisticated DDoS attack mitigation strategy, our SDN environment remains resilient and ensures uninterrupted network availability and performance. Stay protected and keep your networks safe with our cutting-edge ML-powered solution.
 
 ## 6. Result
 
